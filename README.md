@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tabish-2002/Leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

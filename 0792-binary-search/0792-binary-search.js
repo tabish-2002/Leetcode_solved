@@ -4,20 +4,18 @@
  * @return {number}
  */
 var search = function(nums, target) {
-    let left = 0;// start at first index
-    let right = nums.length -1
+       let low = 0;
+    let high = nums.length - 1;
 
-    while (left<= right){
-        let mid = Math.floor((left + right )/2);
-
-        if(nums[mid]=== target){
-            return mid;
-        }
-        else if(nums[mid]< target){
-             left = mid +1;
+    while (low <= high) {
+        let middle = Math.floor((low + high) / 2);
+        if (nums[middle] === target) {
+            return middle;
+        } else if (nums[middle] > target) {
+            high = middle - 1;
         } else {
-            right = mid -1;
+            low = middle + 1;
         }
     }
-    return -1; /// if does not exist
+    return -1;
 };

@@ -33,6 +33,7 @@ Watch me change my life and get a job
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tabish-2002/Leetcode_solved/tree/master/0035-search-insert-position) |
@@ -47,6 +48,7 @@ Watch me change my life and get a job
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |

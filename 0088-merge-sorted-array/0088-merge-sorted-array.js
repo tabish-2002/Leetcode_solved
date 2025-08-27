@@ -1,12 +1,32 @@
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
 var merge = function(nums1, m, nums2, n) {
-    // Step 1: Combine first m elements of nums1 with nums2
-    let merged = nums1.slice(0, m).concat(nums2.slice(0, n));
+    let i = m - 1;       // last element in nums1's valid part
+    let j = n - 1;       // last element in nums2
+    let k = m + n - 1;   // last position in nums1
 
-    // Step 2: Sort the combined array
-    merged.sort((a, b) => a - b);
+    while (i >= 0 && j >= 0) {
+        if (nums1[i] > nums2[j]) {
+            nums1[k] = nums1[i]; // place the larger value at k
+            i--;
+        } else {
+            nums1[k] = nums2[j]; // place nums2[j] at k
+            j--;
+        }
+        k--;
+    }
 
-    // Step 3: Copy sorted elements back to nums1
-    for (let i = 0; i < merged.length; i++) {
-        nums1[i] = merged[i];
+    // Copy remaining nums2 elements (if any)
+    while (j >= 0) {
+        nums1[k] = nums2[j];
+        j--;
+        k--;
     }
 };
+
+    

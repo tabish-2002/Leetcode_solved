@@ -40,6 +40,7 @@ Watch me change my life and get a job
 | [0035-search-insert-position](https://github.com/tabish-2002/Leetcode_solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
@@ -59,4 +60,20 @@ Watch me change my life and get a job
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

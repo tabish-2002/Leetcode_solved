@@ -79,4 +79,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -87,4 +88,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

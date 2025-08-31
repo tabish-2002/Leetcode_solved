@@ -52,10 +52,12 @@ Watch me change my life and get a job
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -83,6 +85,7 @@ Watch me change my life and get a job
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |

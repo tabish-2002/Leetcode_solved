@@ -9,6 +9,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 ## String
@@ -26,6 +27,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tabish-2002/Leetcode_solved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/tabish-2002/Leetcode_solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tabish-2002/Leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |

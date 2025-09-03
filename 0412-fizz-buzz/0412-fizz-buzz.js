@@ -3,21 +3,19 @@
  * @return {string[]}
  */
 var fizzBuzz = function(n) {
-    let arr = [];
+    // since we are returning an empty arr, create an arr to push values into a arr
+    let newArray = [];
 
-    for (let i = 1; i<=n; i ++){// since we are using a array that is not given to us, we use n no lenght of n
-        if(i % 3 === 0 && i % 5 === 0 ){/* we are using this 15 first because we need this condition to be
-        checked first, else the previous statements will run, if we dont do this then the condition will not 
-        be able to catch all the problems that are given to us
-        */
-            arr.push("FizzBuzz")
-        }else if(i % 3 === 0){
-            arr.push("Fizz")      
-        }else if(i % 5 === 0){
-            arr.push("Buzz")  
-        } else {
-            arr.push(i.toString())
+    for(let i = 1; i <= n; i++){// start at 1, becuase it says 1 indexed
+        if (i % 3 === 0 && i % 5 === 0){
+            newArray.push("FizzBuzz")// print fizzbuzz first because all other numbers will not be printed
+        } else if (i % 3 === 0 ){
+            newArray.push("Fizz")
+        } else if (i % 5 === 0){
+            newArray.push("Buzz")
+        } else{
+            newArray.push(i.toString()) // add brackets at the end
         }
     }
-    return arr;
+    return newArray;
 };

@@ -8,6 +8,7 @@ Watch me change my life and get a job
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tabish-2002/Leetcode_solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |

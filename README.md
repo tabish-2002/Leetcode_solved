@@ -17,6 +17,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tabish-2002/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tabish-2002/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
@@ -46,6 +47,7 @@ Watch me change my life and get a job
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tabish-2002/Leetcode_solved/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -65,12 +67,14 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |

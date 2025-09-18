@@ -20,6 +20,7 @@ Watch me change my life and get a job
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tabish-2002/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/tabish-2002/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -63,6 +64,7 @@ Watch me change my life and get a job
 | [0125-valid-palindrome](https://github.com/tabish-2002/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/tabish-2002/Leetcode_solved/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |

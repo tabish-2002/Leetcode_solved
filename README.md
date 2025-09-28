@@ -56,6 +56,7 @@ Watch me change my life and get a job
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -77,6 +78,7 @@ Watch me change my life and get a job
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -133,4 +135,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tabish-2002/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tabish-2002/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tabish-2002/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
@@ -126,6 +127,7 @@ Watch me change my life and get a job
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tabish-2002/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |

@@ -3,7 +3,7 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    if (nums.length === 0) return 0; // edgecase
+    if (nums.length === 0) return null; // edgecase
     let k = 0;
 
     for(let i = 0; i<nums.length; i++){

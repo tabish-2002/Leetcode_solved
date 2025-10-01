@@ -128,6 +128,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tabish-2002/Leetcode_solved/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
@@ -141,4 +142,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ Watch me change my life and get a job
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -130,6 +132,7 @@ Watch me change my life and get a job
 | [0020-valid-parentheses](https://github.com/tabish-2002/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |

@@ -15,11 +15,16 @@ var guessNumber = function(n) {
     let left = 1;
     let right = n;
 
-    while(left<=right){
+    while (left <= right) {
+        let mid = Math.floor((left + right) / 2);
+        let result = guess(mid);
 
-        const mid = Math.floor((left + right)/2);
-        if( guess(mid)===0 ) return mid;
-        else if(guess(mid) ===1 ) left =mid+1;
-        else right = mid-1;
+        if (result === 0) {
+            return mid;           // ✅ found the number
+        } else if (result === -1) {
+            right = mid - 1;      // ❌ guess too high → go left
+        } else {
+            left = mid + 1;       // ❌ guess too low → go right
+        }
     }
 };

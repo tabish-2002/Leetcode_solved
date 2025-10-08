@@ -15,7 +15,7 @@ var hasCycle = function(head) {
     let current = head;
 
     while(current){
-            if (visited.has(current)){ // how tf did I forget to add brackets
+            if (visited.has(current)){
                 return true
             } else {
                 visited.add(current) 

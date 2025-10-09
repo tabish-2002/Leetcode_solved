@@ -11,16 +11,16 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
-    let slow = head;
-    let fast = head;
+    let current = head;
+    let hashSet = new Set();
 
-    while (fast && fast.next){
-        slow = slow.next;
-        fast = fast.next.next;
-        
-        if (slow === fast){
+    while (current){
+        if (hashSet.has(current)){
             return true;
+        }else{
+            hashSet.add(current);
         }
+        current = current.next;
     }
-    return false;
+    return false
 };

@@ -98,6 +98,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -158,4 +160,12 @@ Watch me change my life and get a job
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tabish-2002/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

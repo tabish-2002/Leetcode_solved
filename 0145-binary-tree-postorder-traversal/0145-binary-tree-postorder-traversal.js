@@ -11,15 +11,15 @@
  * @return {number[]}
  */
 var postorderTraversal = function(root) {
-    const res = [];
+    let result = [];
 
     function dfs(node){
-        if(!node) return;
-        dfs(node.left);
-        dfs(node.right);
-        res.push(node.val);
+        if (!node) return;
+        dfs(node.left)
+        dfs(node.right)
+        result.push(node.val)
+
     }
     dfs(root);
-    return res;
-    
+    return result;
 };

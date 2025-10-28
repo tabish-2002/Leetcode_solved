@@ -8,6 +8,7 @@ Watch me change my life and get a job
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tabish-2002/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tabish-2002/Leetcode_solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
@@ -118,6 +119,7 @@ Watch me change my life and get a job
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tabish-2002/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tabish-2002/Leetcode_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
@@ -125,6 +127,7 @@ Watch me change my life and get a job
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tabish-2002/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tabish-2002/Leetcode_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |

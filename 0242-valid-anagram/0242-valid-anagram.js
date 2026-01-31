@@ -4,24 +4,21 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-     if (s.length !== t.length) return false;
+    if (s.length !== t.length) return false;
 
     let map = new Map();
 
-    // count chars in s
-    for (let ch of s) {
-        map.set(ch, (map.get(ch) || 0) + 1);
+    for (let ch of s){
+        map.set (ch, (map.get(ch)|| 0) + 1);
     }
 
-    // subtract using t
-    for (let ch of t) {
-        if (!map.has(ch)) return false;
-        map.set(ch, map.get(ch) - 1);
-
-        if (map.get(ch) === 0) {
+    for (let ch of t){
+        if (!map.has (ch)) return false;
+        map.set(ch, map.get (ch )-1);
+        if (map.get (ch)=== 0){
             map.delete(ch);
         }
     }
 
-    return map.size === 0;
+    return map.size===0;
 };

@@ -31,6 +31,7 @@ Watch me change my life and get a job
 | ------- |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ Watch me change my life and get a job
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |

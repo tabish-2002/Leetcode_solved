@@ -63,6 +63,7 @@ Watch me change my life and get a job
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@ Watch me change my life and get a job
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Watch me change my life and get a job
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +176,7 @@ Watch me change my life and get a job
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tabish-2002/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -198,4 +202,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

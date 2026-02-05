@@ -59,6 +59,7 @@ Watch me change my life and get a job
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ Watch me change my life and get a job
 | [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
@@ -92,12 +94,14 @@ Watch me change my life and get a job
 | ------- |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -190,4 +194,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

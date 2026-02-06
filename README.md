@@ -10,6 +10,7 @@ Watch me change my life and get a job
 | ------- |
 | [0002-add-two-numbers](https://github.com/tabish-2002/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tabish-2002/Leetcode_solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tabish-2002/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
@@ -17,6 +18,7 @@ Watch me change my life and get a job
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tabish-2002/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tabish-2002/Leetcode_solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tabish-2002/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
@@ -85,6 +87,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tabish-2002/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |

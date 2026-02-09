@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-     // 1. Normalize: lowercase + remove non-alphanumeric
+      // 1. Normalize: lowercase + remove non-alphanumeric
     s = s.toLowerCase().replace(/[^a-z0-9]/g, '');
     
     // 2. Initialize pointers
@@ -21,5 +21,4 @@ var isPalindrome = function(s) {
     
     // 4. If loop finishes, it's a palindrome
     return true;
-    
 };

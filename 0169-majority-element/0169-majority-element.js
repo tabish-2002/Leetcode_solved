@@ -3,15 +3,15 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let map = new Map();
-    let majority = Math.floor(nums.length / 2);
+        let map = new Map();
+    const majority = Math.floor(nums.length / 2);
 
     for (let i = 0; i < nums.length; i++) {
-        let num = nums[i];
-        map.set(num, (map.get(num) || 0) + 1);
-
-        if (map.get(num) > majority) { 
-            return num;  
+        map.set(nums[i], (map.get(nums[i]) || 0) + 1);
+        
+        // Check immediately after updating
+        if (map.get(nums[i]) > majority) {
+            return nums[i];
         }
     }
 };

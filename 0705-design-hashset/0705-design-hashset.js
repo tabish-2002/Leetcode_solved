@@ -1,7 +1,6 @@
 
 var MyHashSet = function() {
-    this.set = {};
-    
+    this.set = {}
 };
 
 /** 
@@ -9,7 +8,7 @@ var MyHashSet = function() {
  * @return {void}
  */
 MyHashSet.prototype.add = function(key) {
-    this.set[key]= true;
+    this.set[key] = true
     
 };
 

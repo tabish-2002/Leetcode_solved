@@ -3,14 +3,14 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    if (nums.length === 0) return 0; // edgecase
-    let k = 0;
+    let k = 0;// will act as the first pointer
 
-    for(let i = 0; i<nums.length; i++){
-        if (nums[i] !== nums[k]){
-            k ++;
-            nums[k] = nums[i];
+    for (let i = 0; i <nums.length; i++){
+        if (nums[i] !== nums[k-1]){
+            nums[k] = nums[i]
+            k++;
         }
     }
-    return k+1;
+    return k;
+    
 };

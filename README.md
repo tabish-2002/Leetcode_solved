@@ -43,6 +43,7 @@ Watch me change my life and get a job
 | [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/tabish-2002/Leetcode_solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tabish-2002/Leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 ## Interactive
 |  |
@@ -66,6 +67,7 @@ Watch me change my life and get a job
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |

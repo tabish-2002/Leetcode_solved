@@ -17,7 +17,7 @@ var reverseList = function(head) {
         let nextNode = current.next;
         current.next = prev;
         prev = current;
-        current= nextNode;
+        current = nextNode;
     }
     return prev;
 };

@@ -15,11 +15,11 @@ var postorderTraversal = function(root) {
 
     function dfs(node){
         if (!node) return;
-        dfs(node.left)
-        dfs(node.right)
-        result.push(node.val)
 
+        dfs(node.left);
+        dfs(node.right);
+        result.push(node.val);
     }
-    dfs(root);
+    dfs (root);
     return result;
 };

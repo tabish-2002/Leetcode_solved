@@ -124,6 +124,7 @@ Watch me change my life and get a job
 | [0144-binary-tree-preorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Watch me change my life and get a job
 | [0144-binary-tree-preorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Watch me change my life and get a job
 | [0144-binary-tree-preorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

@@ -126,6 +126,7 @@ Watch me change my life and get a job
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Watch me change my life and get a job
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Watch me change my life and get a job
 | [0145-binary-tree-postorder-traversal](https://github.com/tabish-2002/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,6 +234,11 @@ Watch me change my life and get a job
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

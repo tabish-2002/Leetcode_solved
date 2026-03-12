@@ -72,6 +72,7 @@ Watch me change my life and get a job
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
+| [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
@@ -231,6 +232,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tabish-2002/Leetcode_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 ## Counting
 |  |

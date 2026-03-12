@@ -3,20 +3,24 @@
  * @return {number}
  */
 var lastStoneWeight = function(stones) {
-   while (stones.length > 1) {
-        // Sort stones descending
-        stones.sort((a, b) => b - a);
+    // Convert stones into a max heap
+    stones.sort((a, b) => b - a);
 
-        // Take two heaviest stones
-        let y = stones.shift(); // largest
-        let x = stones.shift(); // second largest
+    while (stones.length > 1) {
 
-        // If not equal, push the difference back
+        // Take two largest stones
+        let y = stones.shift();
+        let x = stones.shift();
+
+        // Smash them
         if (y !== x) {
-            stones.push(y - x);
+            let newStone = y - x;
+
+            // Insert new stone
+            stones.push(newStone);
+            stones.sort((a, b) => b - a);
         }
     }
 
-    // Return last stone weight or 0
-    return stones.length === 1 ? stones[0] : 0;
+    return stones.length ? stones[0] : 0;
 };

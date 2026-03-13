@@ -3,7 +3,7 @@
  * @return {number}
  */
 var subsetXORSum = function(nums) {
-    const n = nums.length;
+    let n = nums.length;
     let total = 0;
     for (let mask = 0; mask < (1 << n); mask++) {
         let subsetXor = 0;

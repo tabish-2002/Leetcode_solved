@@ -12,15 +12,12 @@
  * @return {boolean}
  */
 var hasPathSum = function(root, targetSum) {
-    // base case
-    if(!root) return false;
+    if (!root) return false;
 
-    if(!root.left && !root.right && targetSum - root.val === 0) return true;
+    if (!root.left && !root.right && targetSum - root.val === 0) return true;
 
-   return(
-    hasPathSum(root.left, targetSum - root.val)||
+ return (
+    hasPathSum(root.left, targetSum - root.val) ||
     hasPathSum(root.right, targetSum - root.val)
-   );
+ )   
 };
-    
-    

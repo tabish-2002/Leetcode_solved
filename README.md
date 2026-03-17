@@ -73,6 +73,7 @@ Watch me change my life and get a job
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
+| [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -104,6 +105,7 @@ Watch me change my life and get a job
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
+| [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -274,4 +276,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->

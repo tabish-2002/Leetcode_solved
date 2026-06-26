@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var majorityElement = function(nums) {
         let map = new Map();
     const majority = Math.floor(nums.length / 2);

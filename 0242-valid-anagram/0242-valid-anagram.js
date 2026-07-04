@@ -3,23 +3,22 @@
  * @param {string} t
  * @return {boolean}
  */
-var isAnagram = function(s, t) {// base case
+var isAnagram = function(s, t) {
     if (s.length !== t.length){
         return false
     }
-    let map = new Map()
+    let map = new Map();
 
-    for (let ch of t){
-        // thru characters of T)
-        map.set(ch, (map.get(ch)|| 0)+1);
-    }
     for (let ch of s){
-        if (!map.has(ch))return false;
-        map.set(ch, map.get(ch)-1);
+        map.set(ch,(map.get(ch)||0)+1)// we set the values, not get it
+    }
+    for (let ch of t){
+        if(!map.has(ch)) return false;
+        map.set(ch, map.get (ch)-1);
 
         if(map.get(ch)=== 0){
             map.delete(ch)
         }
     }
-    return map.size === 0;
+    return (map.size=== 0);
 };

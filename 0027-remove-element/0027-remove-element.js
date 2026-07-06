@@ -4,13 +4,13 @@
  * @return {number}
  */
 var removeElement = function(nums, val) {
-    let x = 0;// x is a pointer;
+    let k = 0;// set it to first calue for a pointer k
 
-    for (let i = 0; i<nums.length; i++){
-        if (nums[i]!= val){
-            nums[x] = nums[i];
-            x++;
+    for(let i = 0; i<nums.length; i++){
+        if(nums[i] !== val){
+            nums[k] = nums[i];
+            k++;
         }
     }
-    return x;
+    return k;
 };

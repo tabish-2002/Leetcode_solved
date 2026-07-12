@@ -8,15 +8,15 @@ var mergeAlternately = function(word1, word2) {
     let j = 0;
     let mergedString = '';
 
-    while (i< word1.length || j< word2.length){
-        if(i<word1.length){
+    while (i<word1.length || j<word2.length){
+        if (i<word1.length){
             mergedString += word1[i]
-            i++;
+            i++
         }
         if(j<word2.length){
-         mergedString += word2[j]
-         j++;
-        }
-    }
-    return mergedString;
+            mergedString += word2[j]
+            j++
+    }   } 
+   return mergedString;
+    
 };

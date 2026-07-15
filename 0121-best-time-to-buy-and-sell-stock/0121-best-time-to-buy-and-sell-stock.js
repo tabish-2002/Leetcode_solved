@@ -7,8 +7,8 @@ var maxProfit = function(prices) {
     let right = 1;
     let maxProfit = 0;
 
-    while (right < prices.length){
-        if(prices[left] < prices[right]){
+    while(right < prices.length){
+        if (prices[left] < prices[right]){
             maxProfit = Math.max(maxProfit, prices[right] - prices[left])
         }else{
             left = right;

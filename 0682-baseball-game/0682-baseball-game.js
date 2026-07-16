@@ -12,7 +12,7 @@ var calPoints = function(operations) {
             stack.push(2 * stack[stack.length - 1]);
         } else if (i === "C") {
             stack.pop();
-        } else {
+        } else  {
             stack.push(parseInt(i));
         }
     }

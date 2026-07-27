@@ -19,7 +19,6 @@ var guessNumber = function(n) {
         let mid = Math.floor((left + right)/2)
         let result = guess(mid)// declare mid into guess API
 
-
         if(result === 0){
             return mid;
         } else if (result === 1){

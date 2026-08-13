@@ -14,7 +14,7 @@ var inorderTraversal = function(root) {
         let result = [];
 
     function dfs(node) {
-        if (!node) return;
+        if (!node) return null;
 
         dfs(node.left);        // Left
         result.push(node.val); // Node

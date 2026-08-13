@@ -11,21 +11,18 @@
  * @return {boolean}
  */
 var isBalanced = function(root) {
-       function checkHeight(node) {
-        if (!node) return 0;
+        function checkHeight(node){
+        if (!node) return 0;                          // fix: 0, not -1
 
-        let leftHeight = checkHeight(node.left);   // Fix: node.left
+        let leftHeight = checkHeight(node.left);
         if (leftHeight === -1) return -1;
 
-        let rightHeight = checkHeight(node.right); // Fix: node.right
+        let rightHeight = checkHeight(node.right);     // fix: node.right
         if (rightHeight === -1) return -1;
 
-        if (Math.abs(leftHeight - rightHeight) > 1) { // Fix: minus not plus
-            return -1;
-        }
+        if (Math.abs(leftHeight - rightHeight) > 1) return -1;  // fix: spelling
 
-        return Math.max(leftHeight, rightHeight) + 1; // Fix: add return here
+        return Math.max(leftHeight, rightHeight) + 1;
     }
-    
     return checkHeight(root) !== -1; 
 };

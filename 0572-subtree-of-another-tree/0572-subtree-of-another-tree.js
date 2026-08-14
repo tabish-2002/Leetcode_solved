@@ -12,7 +12,7 @@
  * @return {boolean}
  */
 var isSubtree = function(root, subRoot) {
-        // Base case: if root is null, there's no subtree
+    // Base case: if root is null, there's no subtree
     if (!root) return false;
     
     // Check if current tree matches subRoot

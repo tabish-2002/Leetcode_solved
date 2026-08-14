@@ -287,4 +287,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tabish-2002/Leetcode_solved/tree/master/0463-island-perimeter) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

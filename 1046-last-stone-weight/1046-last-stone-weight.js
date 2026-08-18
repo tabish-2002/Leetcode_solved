@@ -3,24 +3,23 @@
  * @return {number}
  */
 var lastStoneWeight = function(stones) {
-    // Convert stones into a max heap
+     // 1. Sort initially to start with the heaviest stones
     stones.sort((a, b) => b - a);
 
+    // 2. Loop must run AS LONG AS we have 2 or more stones to smash
     while (stones.length > 1) {
+        let y = stones.shift(); // Heaviest
+        let x = stones.shift(); // Second heaviest
 
-        // Take two largest stones
-        let y = stones.shift();
-        let x = stones.shift();
-
-        // Smash them
-        if (y !== x) {
+        if (x !== y) {
             let newStone = y - x;
-
-            // Insert new stone
             stones.push(newStone);
+            // 3. Re-sort so the next heaviest stones move to the front
             stones.sort((a, b) => b - a);
         }
     }
 
+    // 4. Return the last remaining stone, or 0 if none are left
     return stones.length ? stones[0] : 0;
+    
 };

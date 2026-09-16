@@ -4,6 +4,7 @@
  * @return {number}
  */
 var findJudge = function(n, trust) {
+    if (trust.lenght === 0) return -1;
     const Trusted = new Array(n+1).fill(0);
     for(let [i,j] of trust) {
         Trusted[i] -= 1

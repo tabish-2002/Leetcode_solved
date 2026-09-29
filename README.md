@@ -62,6 +62,7 @@ Watch me change my life and get a job
 | [0035-search-insert-position](https://github.com/tabish-2002/Leetcode_solved/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ Watch me change my life and get a job
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tabish-2002/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
@@ -111,6 +113,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
@@ -291,4 +294,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

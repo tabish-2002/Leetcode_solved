@@ -69,6 +69,7 @@ Watch me change my life and get a job
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/tabish-2002/Leetcode_solved/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@ Watch me change my life and get a job
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
@@ -118,11 +120,13 @@ Watch me change my life and get a job
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -245,6 +249,7 @@ Watch me change my life and get a job
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tabish-2002/Leetcode_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
@@ -252,6 +257,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 ## Hash Function
 |  |
 | ------- |
@@ -302,4 +308,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tabish-2002/Leetcode_solved/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

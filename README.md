@@ -66,6 +66,7 @@ Watch me change my life and get a job
 | [0088-merge-sorted-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tabish-2002/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +104,7 @@ Watch me change my life and get a job
 | [0001-two-sum](https://github.com/tabish-2002/Leetcode_solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tabish-2002/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tabish-2002/Leetcode_solved/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/tabish-2002/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tabish-2002/Leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
@@ -324,4 +326,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tabish-2002/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

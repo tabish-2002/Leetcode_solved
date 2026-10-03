@@ -71,6 +71,7 @@ Watch me change my life and get a job
 | [0217-contains-duplicate](https://github.com/tabish-2002/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/tabish-2002/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/tabish-2002/Leetcode_solved/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
@@ -330,4 +331,8 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tabish-2002/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tabish-2002/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

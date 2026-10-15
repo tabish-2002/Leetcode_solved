@@ -74,6 +74,7 @@ Watch me change my life and get a job
 | [0238-product-of-array-except-self](https://github.com/tabish-2002/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/tabish-2002/Leetcode_solved/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/tabish-2002/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tabish-2002/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |

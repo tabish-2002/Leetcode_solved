@@ -84,6 +84,7 @@ Watch me change my life and get a job
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tabish-2002/Leetcode_solved/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |

@@ -14,6 +14,7 @@ Watch me change my life and get a job
 | [0066-plus-one](https://github.com/tabish-2002/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tabish-2002/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
@@ -34,6 +35,7 @@ Watch me change my life and get a job
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
@@ -343,4 +345,8 @@ Watch me change my life and get a job
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tabish-2002/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tabish-2002/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

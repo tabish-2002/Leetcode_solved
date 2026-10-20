@@ -86,6 +86,7 @@ Watch me change my life and get a job
 | [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
@@ -351,6 +352,7 @@ Watch me change my life and get a job
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tabish-2002/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tabish-2002/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
 ## Number Theory
 |  |
 | ------- |

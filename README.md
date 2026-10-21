@@ -109,6 +109,7 @@ Watch me change my life and get a job
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tabish-2002/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -193,6 +194,7 @@ Watch me change my life and get a job
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

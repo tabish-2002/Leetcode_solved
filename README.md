@@ -96,6 +96,7 @@ Watch me change my life and get a job
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/tabish-2002/Leetcode_solved/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |

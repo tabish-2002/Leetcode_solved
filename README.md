@@ -40,6 +40,7 @@ Watch me change my life and get a job
 | [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -93,6 +94,7 @@ Watch me change my life and get a job
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tabish-2002/Leetcode_solved/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/2058-concatenation-of-array) |
@@ -224,6 +226,7 @@ Watch me change my life and get a job
 | [0232-implement-queue-using-stacks](https://github.com/tabish-2002/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Trie
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Watch me change my life and get a job
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tabish-2002/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tabish-2002/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
 | ------- |

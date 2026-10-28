@@ -4,17 +4,13 @@
  * @return {number}
  */
 var countStudents = function(students, sandwiches) {
-let unable = 0;
-    while(students.length > 0) {  // Fixed spelling and added > 0
-        if(students[0] === sandwiches[0]) {
-            students.shift();
-            sandwiches.shift();
-            unable = 0;
-        } else {
-            students.push(students.shift());
-            unable++;
-            if(unable === students.length) break;
-        }
+    let count = [0,0]
+
+    for (const s of students) count[s]++;
+
+    for (const sw of sandwiches){
+        if(count[sw]=== 0) break;
+        count[sw]--;
     }
-    return students.length;  // Fixed spelling
+    return count[0] + count[1];
 };

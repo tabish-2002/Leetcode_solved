@@ -115,6 +115,7 @@ Watch me change my life and get a job
 | [0876-middle-of-the-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Watch me change my life and get a job
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Watch me change my life and get a job
 | [0234-palindrome-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/tabish-2002/Leetcode_solved/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |

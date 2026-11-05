@@ -53,6 +53,7 @@ Watch me change my life and get a job
 | [0374-guess-number-higher-or-lower](https://github.com/tabish-2002/Leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Watch me change my life and get a job
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |

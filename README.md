@@ -16,6 +16,7 @@ Watch me change my life and get a job
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tabish-2002/Leetcode_solved/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
@@ -92,6 +93,7 @@ Watch me change my life and get a job
 | [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
@@ -148,6 +150,7 @@ Watch me change my life and get a job
 | [0229-majority-element-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +158,7 @@ Watch me change my life and get a job
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -286,6 +290,7 @@ Watch me change my life and get a job
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tabish-2002/Leetcode_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 ## Counting
@@ -352,6 +357,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -370,4 +376,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tabish-2002/Leetcode_solved/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

@@ -93,6 +93,7 @@ Watch me change my life and get a job
 | [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/tabish-2002/Leetcode_solved/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
@@ -150,6 +151,7 @@ Watch me change my life and get a job
 | [0229-majority-element-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tabish-2002/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -158,6 +160,7 @@ Watch me change my life and get a job
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tabish-2002/Leetcode_solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tabish-2002/Leetcode_solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -290,6 +293,7 @@ Watch me change my life and get a job
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tabish-2002/Leetcode_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
@@ -353,6 +357,7 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tabish-2002/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -384,4 +389,16 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tabish-2002/Leetcode_solved/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

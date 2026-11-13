@@ -7,9 +7,9 @@ var replaceElements = function(arr) {
     arr[arr.length -1] = -1;
 
     for (let i = arr.length -2; i >=0; i--){
-        let current = arr[i];
+        const current = arr[i];
         arr[i] = max;
-        max = Math.max(max,current)
+        max = Math.max(max, current)
     }
     return arr;
 };

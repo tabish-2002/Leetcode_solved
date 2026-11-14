@@ -4,11 +4,12 @@
  */
 var getConcatenation = function(nums) {
     const n = nums.length;
-    const ans = new Array(2 * n);
+    const ans = new Array(2*n);
 
-    for (let i = 0; i < n; i++){
+    for (let i = 0; i < nums.length; i++){
         ans[i] = nums[i];
         ans[i+n]= nums[i]
     }
     return ans;
+    
 };

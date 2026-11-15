@@ -8,7 +8,7 @@ var maxSubArray = function(nums) {
 
     for (let i = 0; i < nums.length; i++){
         if (curSum < 0){
-            curSum = 0
+            curSum = 0;
         }
         curSum += nums[i];
         maxSum = Math.max(curSum, maxSum);

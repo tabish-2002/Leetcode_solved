@@ -3,13 +3,12 @@
  * @return {number[]}
  */
 var replaceElements = function(arr) {
-    let max = arr[arr.length -1]// why is this used to get the last integer
-    arr[arr.length -1] = -1;
+    let max = -1;
 
-    for (let i = arr.length -2; i>=0; i--){
-        const current = arr[i];
-        arr[i] = max;
-        max = Math.max(max,current);
+     for (let i = arr.length -1; i>= 0; i--){
+        const curr = arr[i];
+        arr[i]= max;
+        max = Math.max(curr, max);
     }
     return arr;
 };

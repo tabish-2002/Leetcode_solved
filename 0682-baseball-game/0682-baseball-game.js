@@ -5,17 +5,21 @@
 var calPoints = function(operations) {
     let stack = [];
 
-    for (let i of operations) {
-        if (i === "+") {
-            stack.push(stack[stack.length - 1] + stack[stack.length - 2]);
-        } else if (i === "D") {
-            stack.push(2 * stack[stack.length - 1]);
-        } else if (i === "C") {
-            stack.pop();
-        } else  {
-            stack.push(parseInt(i));
+    for (let op of operations){
+        if (op === '+'){
+            stack.push(stack[stack.length -1] + stack[stack.length - 2]);
+        } else if(op === "D"){
+            stack.push(stack[stack.length -1] *2)
+        } else if (op === 'C'){
+            stack.pop()
+        } else{
+            stack.push(parseInt(op))
         }
     }
-
-    return stack.reduce((a, b) => a + b, 0);
+    let sum = 0
+    for (const s of stack){
+        sum += s;
+    }
+    return sum;
+    
 };

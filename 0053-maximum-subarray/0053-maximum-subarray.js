@@ -11,7 +11,7 @@ var maxSubArray = function(nums) {
             curSum = 0;
         }
         curSum += nums[i];
-        maxSum = Math.max(curSum, maxSum)
+        maxSum = Math.max(maxSum, curSum)
     }
     return maxSum;
 };

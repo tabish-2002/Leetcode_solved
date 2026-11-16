@@ -5,10 +5,10 @@
 var calPoints = function(operations) {
     let stack = [];
 
-    for (let op of operations){
+    for (const op of operations){
         if (op === '+'){
-            stack.push(stack[stack.length -1] + stack[stack.length - 2]);
-        } else if(op === "D"){
+            stack.push(stack[stack.length -1] + stack[stack.length -2])
+        } else if (op === 'D'){
             stack.push(stack[stack.length -1] *2)
         } else if (op === 'C'){
             stack.pop()
@@ -16,10 +16,9 @@ var calPoints = function(operations) {
             stack.push(parseInt(op))
         }
     }
-    let sum = 0
+    let sum = 0// have to declare sum
     for (const s of stack){
         sum += s;
     }
     return sum;
-    
 };

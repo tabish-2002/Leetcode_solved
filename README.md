@@ -99,6 +99,7 @@ Watch me change my life and get a job
 | [1046-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/tabish-2002/Leetcode_solved/tree/master/1127-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tabish-2002/Leetcode_solved/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tabish-2002/Leetcode_solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tabish-2002/Leetcode_solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tabish-2002/Leetcode_solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/1929-concatenation-of-array) |
@@ -252,6 +253,7 @@ Watch me change my life and get a job
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tabish-2002/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tabish-2002/Leetcode_solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Design
 |  |
 | ------- |

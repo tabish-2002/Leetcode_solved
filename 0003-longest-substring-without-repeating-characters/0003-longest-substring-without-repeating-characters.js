@@ -2,20 +2,18 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
+var lengthOfLongestSubstring = function(s){
         let set = new Set();
     let l = 0;
     let maxCount = 0;
 
-    for (let r = 0; r < s.length; r++) {
-        while (set.has(s[r])) {
-            set.delete(s[l]);
+    for (let i = 0; i < s.length; i++){
+        while (set.has(s[i])){
+            set.delete(s[l])
             l++;
         }
-        set.add(s[r]);
-        maxCount = Math.max(maxCount, r - l + 1);
+        set.add(s[i])
+        maxCount = Math.max(maxCount, i - l + 1);
     }
-
     return maxCount;
-    
 };

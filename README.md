@@ -34,6 +34,7 @@ Watch me change my life and get a job
 | [0680-valid-palindrome-ii](https://github.com/tabish-2002/Leetcode_solved/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1894-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tabish-2002/Leetcode_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/tabish-2002/Leetcode_solved/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
@@ -122,6 +123,7 @@ Watch me change my life and get a job
 | [1768-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/tabish-2002/Leetcode_solved/tree/master/1894-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tabish-2002/Leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tabish-2002/Leetcode_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Watch me change my life and get a job
 | [0053-maximum-subarray](https://github.com/tabish-2002/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tabish-2002/Leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tabish-2002/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tabish-2002/Leetcode_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Memoization
 |  |
 | ------- |

@@ -54,6 +54,7 @@ Watch me change my life and get a job
 | [0278-first-bad-version](https://github.com/tabish-2002/Leetcode_solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tabish-2002/Leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/tabish-2002/Leetcode_solved/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
 ## Interactive
@@ -92,6 +93,7 @@ Watch me change my life and get a job
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/tabish-2002/Leetcode_solved/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/tabish-2002/Leetcode_solved/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/tabish-2002/Leetcode_solved/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tabish-2002/Leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
@@ -265,6 +267,7 @@ Watch me change my life and get a job
 | [0703-kth-largest-element-in-a-stream](https://github.com/tabish-2002/Leetcode_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/tabish-2002/Leetcode_solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tabish-2002/Leetcode_solved/tree/master/0706-design-hashmap) |
+| [0729-my-calendar-i](https://github.com/tabish-2002/Leetcode_solved/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -406,4 +409,12 @@ Watch me change my life and get a job
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tabish-2002/Leetcode_solved/tree/master/0912-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/tabish-2002/Leetcode_solved/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/tabish-2002/Leetcode_solved/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
